@@ -1,0 +1,297 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Morning Coffee Rituals",
+      "content": "Discover the perfect way to start your day with a refreshing cup of coffee.",
+      "img": "https://picsum.photos/id/1011/600/400",
+      "likes": 1,
+      "liked": true,
+      "comments": [
+        {
+          "user": "hi",
+          "text": "hi"
+        },
+        {
+          "user": "hi",
+          "text": "hi"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Urban Gardening Tips",
+      "content": "Learn how to create a beautiful garden even in small urban spaces.",
+      "img": "https://picsum.photos/id/1012/600/400",
+      "likes": 1,
+      "liked": true,
+      "comments": []
+    },
+    {
+      "id": "3",
+      "title": "Travel Guide: Hidden Beaches",
+      "content": "Explore some of the most beautiful hidden beaches around the world.",
+      "img": "https://picsum.photos/id/1013/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "4",
+      "title": "Healthy Breakfast Ideas",
+      "content": "Start your day with nutritious and easy-to-make breakfast recipes.",
+      "img": "https://picsum.photos/id/1014/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "5",
+      "title": "Photography Tips for Beginners",
+      "content": "Capture stunning photos with these essential photography tips.",
+      "img": "https://picsum.photos/id/1015/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "6",
+      "title": "Yoga for Stress Relief",
+      "content": "Simple yoga exercises to reduce stress and improve well-being.",
+      "img": "https://picsum.photos/id/1016/600/400",
+      "likes": 1,
+      "liked": true,
+      "comments": []
+    },
+    {
+      "id": "7",
+      "title": "Street Food Around the World",
+      "content": "A delicious tour of popular street foods in different countries.",
+      "img": "https://picsum.photos/id/1017/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "8",
+      "title": "DIY Home Decor Projects",
+      "content": "Creative and easy DIY ideas to decorate your home on a budget.",
+      "img": "https://picsum.photos/id/1018/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "9",
+      "title": "Minimalist Lifestyle",
+      "content": "Learn how to simplify your life and embrace minimalism.",
+      "img": "https://picsum.photos/id/1019/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "10",
+      "title": "Best Hiking Trails",
+      "content": "Discover the most breathtaking hiking trails worldwide.",
+      "img": "https://picsum.photos/id/1020/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "11",
+      "title": "Winter Fashion Trends",
+      "content": "Stay stylish this winter with these fashion tips and ideas.",
+      "img": "https://picsum.photos/id/1021/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "12",
+      "title": "Healthy Smoothie Recipes",
+      "content": "Boost your energy with these easy and nutritious smoothie recipes.",
+      "img": "https://picsum.photos/id/1022/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "13",
+      "title": "Mindfulness for Beginners",
+      "content": "Simple mindfulness exercises to improve focus and calm your mind.",
+      "img": "https://picsum.photos/id/1023/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "14",
+      "title": "Tech Gadgets You Need",
+      "content": "Check out the latest tech gadgets to make your life easier.",
+      "img": "https://picsum.photos/id/1024/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "15",
+      "title": "Urban Cycling Tips",
+      "content": "Ride safely and efficiently in busy cities with these tips.",
+      "img": "https://picsum.photos/id/1025/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "16",
+      "title": "Indoor Plant Care",
+      "content": "Keep your indoor plants healthy with these easy tips.",
+      "img": "https://picsum.photos/id/1026/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "17",
+      "title": "Digital Nomad Lifestyle",
+      "content": "Tips for working remotely while traveling the world.",
+      "img": "https://picsum.photos/id/1027/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "18",
+      "title": "Eco-Friendly Living",
+      "content": "Simple ways to reduce your carbon footprint and live sustainably.",
+      "img": "https://picsum.photos/id/1028/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "19",
+      "title": "Street Art Around the World",
+      "content": "Explore colorful and creative street art from different cities.",
+      "img": "https://picsum.photos/id/1029/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "20",
+      "title": "Coffee Brewing Methods",
+      "content": "Learn different ways to brew the perfect cup of coffee at home.",
+      "img": "https://picsum.photos/id/1030/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "21",
+      "title": "Adventure Travel Guide",
+      "content": "Tips and ideas for thrilling adventures around the world.",
+      "img": "https://picsum.photos/id/1031/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "22",
+      "title": "Cooking on a Budget",
+      "content": "Delicious recipes that won’t break the bank.",
+      "img": "https://picsum.photos/id/1032/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "23",
+      "title": "Weekend Getaways",
+      "content": "Discover relaxing weekend destinations close to your city.",
+      "img": "https://picsum.photos/id/1033/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "24",
+      "title": "Book Recommendations",
+      "content": "Check out some must-read books to expand your knowledge and imagination.",
+      "img": "https://picsum.photos/id/1034/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "25",
+      "title": "Mindful Meditation",
+      "content": "Learn meditation techniques for a calmer, focused mind.",
+      "img": "https://picsum.photos/id/1035/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "26",
+      "title": "Photography Gear Guide",
+      "content": "Essential gear for beginner and intermediate photographers.",
+      "img": "https://picsum.photos/id/1036/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "27",
+      "title": "Travel Photography Tips",
+      "content": "Take amazing travel photos with these simple techniques.",
+      "img": "https://picsum.photos/id/1037/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "28",
+      "title": "Healthy Snack Ideas",
+      "content": "Easy and nutritious snacks to keep you energized throughout the day.",
+      "img": "https://picsum.photos/id/1038/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "29",
+      "title": "Weekend Brunch Recipes",
+      "content": "Delicious brunch recipes to enjoy with friends and family.",
+      "img": "https://picsum.photos/id/1039/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    },
+    {
+      "id": "30",
+      "title": "Creative Writing Tips",
+      "content": "Improve your writing with these creative techniques and prompts.",
+      "img": "https://picsum.photos/id/1040/600/400",
+      "likes": 0,
+      "liked": false,
+      "comments": []
+    }
+  ],
+  "users": [
+    {
+      "id": "c053",
+      "name": "hi",
+      "email": "h@gmail.com",
+      "password": "1"
+    },
+    {
+      "id": "599e",
+      "name": "vasu",
+      "email": "v1@gmail.com",
+      "password": "1"
+    }
+  ]
+}
