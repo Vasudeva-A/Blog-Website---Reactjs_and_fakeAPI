@@ -1,20 +1,70 @@
-<<<<<<< HEAD
-# React + Vite
+🚀 Blog Website – React + Material UI + Fake API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and fully responsive Blog Website built using React, Material UI, and Fake REST API (JSON Server).
+This project includes features like post listing, post details, likes, comments, form validation, search, clean UI components, and carousel design.
 
-Currently, two official plugins are available:
+🌟 Features
+📝 Blog Functionalities
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Display all blog posts in a clean grid layout
 
-## React Compiler
+Each post has:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Title
 
-## Expanding the ESLint configuration
+Description
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Blog-Website---Reactjs_and_fakeAPI
->>>>>>> 1c0c62775a75ab73a703b591089e924ef30f2473
+Image
+
+Likes
+
+Comments
+
+Dedicated Post Detail Page with similar post suggestions (3 per row)
+
+❤️ User Interactions
+
+Like & Unlike posts
+
+Add comments
+
+Delete own comments
+
+View similar posts
+
+“View Details” navigation from card & carousel
+
+📱 Responsive UI
+
+Built with Material UI (MUI)
+
+Carousel supports mobile, tablet & desktop
+
+3 posts per row on large screens
+
+1–2 posts per row in small screens
+
+💾 Fake API (JSON Server)
+
+Used to simulate backend
+
+Stores:
+
+Posts
+
+Likes
+
+Comments
+
+User details
+
+Authentication mock
+
+🔐 Form Validation
+
+React form validation for:
+
+Login
+
+Signup
+
