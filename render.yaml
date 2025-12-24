@@ -1,0 +1,16 @@
+services:
+  - type: static
+    name: blog-frontend
+    env: node
+    buildCommand: npm install && npm run build
+    publishPath: dist
+  - type: web_service
+    name: fake-api
+    env: node
+    plan: free
+    buildCommand: cd src/Components/fake-api && npm install
+    startCommand: cd src/Components/fake-api && npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+# Note: create services in Render via the dashboard and set VITE_API_URL for the frontend to point to the fake-api URL

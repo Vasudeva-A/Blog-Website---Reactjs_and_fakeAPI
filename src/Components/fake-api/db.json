@@ -10,11 +10,26 @@
       "comments": [
         {
           "user": "hi",
-          "text": "hi"
+          "text": "hi",
+          "likes": [
+            "vs2"
+          ]
         },
         {
           "user": "hi",
-          "text": "hi"
+          "text": "hi",
+          "likes": [
+            "vs2"
+          ],
+          "replies": [
+            {
+              "user": "vs2",
+              "text": "vasuhere",
+              "likes": [
+                "vs2"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -25,15 +40,18 @@
       "img": "https://picsum.photos/id/1012/600/400",
       "likes": 1,
       "liked": true,
-      "comments": []
+      "comments": [],
+      "likedBy": [
+        "vs2"
+      ]
     },
     {
       "id": "3",
       "title": "Travel Guide: Hidden Beaches",
       "content": "Explore some of the most beautiful hidden beaches around the world.",
       "img": "https://picsum.photos/id/1013/600/400",
-      "likes": 0,
-      "liked": false,
+      "likes": 1,
+      "liked": true,
       "comments": []
     },
     {
@@ -292,6 +310,12 @@
       "name": "vasu",
       "email": "v1@gmail.com",
       "password": "1"
+    },
+    {
+      "name": "vs2",
+      "email": "v2@gmail.com",
+      "password": "1",
+      "id": "iZmUsXT"
     }
   ]
 }
